@@ -1,6 +1,6 @@
 * py-docformatter.el
 
-Provides commands, which use the external =docformatter= tool to tidy up the current buffer according to Python's PEP8.
+Provides commands, which use the external =docformatter= tool to tidy up the current buffer according to Python's PEP257.
 
 To install =docformatter= and =py-docformatter=:
 
